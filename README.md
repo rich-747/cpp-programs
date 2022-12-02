@@ -3,3 +3,4 @@
 [frndfntoaddobjoftwodiffclass](https://github.com/rich-747/cpp-programs/blob/main/frndfntoaddobjoftwodiffclass.cpp)      
 [swappingpvtdataclass](https://github.com/rich-747/cpp-programs/blob/main/swappingpvtdataclass.cpp)    
 [catchingexceptions](https://github.com/rich-747/cpp-programs/blob/main/catchingexceptions.cpp)   
+[classtypeasanexception](https://github.com/rich-747/cpp-programs/blob/main/classtypeasanexception.cpp)
